@@ -6,7 +6,7 @@
 
 ## Description
 
-It's a webpage that shows different types of triangles and what they look like.
+Assignment challenge. Three challenges, consisting of creating Student Grade Generator, Speed Detector, Net Salary Calculator
 
 ## Installation
 
@@ -26,14 +26,14 @@ Git
 
 ## Technologies used
 
-HTML
-CSS
-Github
-Javascript
+ HTML
+ CSS
+ Github
+ Javascript
 
 ## Support and contact details
 
-github.com/hamida-mstafa
+https://github.com/AymanAbdiMohamed
 
 ### License
 
