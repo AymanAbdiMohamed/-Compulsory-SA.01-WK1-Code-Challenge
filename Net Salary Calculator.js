@@ -25,5 +25,5 @@ function calculateNetSalary(basicSalary, benefits) {
     return netSalary;
 
 }
-
+//e.g argumnets for the parameters
 calculateNetSalary(10000, 800);
