@@ -4,30 +4,26 @@
 
 ## By *Ayman Abdi Mohamed*
 
-## Description
-
-Assignment challenge. Three challenges, consisting of creating Student Grade Generator, Speed Detector, Net Salary Calculator
+## Description:
+This repository contains solutions tp the Week 1 code challenge. The assignment consistes of three toy problmes implemented in JS.
+Assignment challenge. Three challenges, consisting of creating Student Grade Generator, Speed Detector, Net Salary Calculator.
 
 ## Installation
-
 You use git clone to be able to download the documents in the GitHub
 
 ## Installation Requirements
-
 Git
 
 ### Installation instruction
 
-## Git clone https://github.com/AymanAbdiMohamed/-Compulsory-SA.01-WK1-Code-Challenge
+Git clone https://github.com/AymanAbdiMohamed/-Compulsory-SA.01-WK1-Code-Challenge
 
 ## Live Link
-
-[Git](gh-pages link)
+Git clone https://github.com/AymanAbdiMohamed/-Compulsory-SA.01-WK1-Code-Challenge
 
 ## Technologies used
 
- HTML
- CSS
+ HTML & CSS for testing purposes
  Github
  Javascript
 
@@ -37,5 +33,4 @@ https://github.com/AymanAbdiMohamed
 
 ### License
 
-The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+This project is not licensed. Academic use only. All rights reserved 2025, Ayman Abdi Mohamed.
